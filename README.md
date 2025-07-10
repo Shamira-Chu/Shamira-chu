@@ -1,16 +1,15 @@
-## Hi there 👋
+✨ Oi, eu sou a Shamira
 
-<!--
-**Shamira-Chu/Shamira-chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Estudante de Web Design na FIAP  
+🧠 Explorando HTML, CSS, JavaScript, Figma e design responsivo  
+🕹️ Criadora de projetos criativos como **Climatrix** e **KiraKiraSystem**  
+🎯 Apaixonada por visual Y2K, experiências digitais e design com propósito  
 
-Here are some ideas to get you started:
+---
+## 🚀 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪐 **KiraKiraSystem**  
+Interface futurista desenvolvida como parte do CP2 da FIAP.
+
+🎮 **Climatrix**  
+Jogo educativo sobre desastres naturais e sustentabilidade.
