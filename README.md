@@ -10,8 +10,8 @@
 
 🪐 **KiraKiraSystem**  
 Interface futurista desenvolvida como parte do CP2 da FIAP.
-https://kirakirasystem.netlify.app/
+<br>https://kirakirasystem.netlify.app/
 
 🎮 **Climatrix**  
 Jogo educativo sobre desastres naturais e sustentabilidade.
-https://climatrixg.netlify.app/
+<br>https://climatrixg.netlify.app/
