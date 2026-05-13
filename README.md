@@ -72,13 +72,6 @@
 </p>
 
 ---
-
-Ecossistema GitHub
-Exibindo o impacto técnico e a fluência em tecnologias através de métricas em tempo real.
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shamira-chu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="165" alt="Impacto Técnico" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamira-chu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff" height="165" alt="Tecnologias Dominantes" /> </div>
-
----
 <p align="center">Contato Direto</p>
 <p align="center"> <a href="mailto:shamiraxp10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/denise-shamira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/shamira-chu"> <img src="https://img.shields.io/badge/Portfólio-ff0000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
 <p align="right"> 
