@@ -73,6 +73,8 @@
 
 ---
 <p align="center">Contato Direto</p>
-<p align="center"> <a href="mailto:shamiraxp10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/denise-shamira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/shamira-chu"> <img src="https://img.shields.io/badge/Portfólio-ff0000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
-<p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=shamira-chu&color=ff0000&style=flat-square&label=VISITAS+AO+PERFIL" /> </p> <p align="center">
+<p align="center"> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shamiraxp10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+<a href="https://www.linkedin.com/in/denise-shamira-chuquimia/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shamira-chu&color=ff0000&style=flat-square&label=VISITAS+AO+PERFIL" /> </p> <p align="center"> 
+
